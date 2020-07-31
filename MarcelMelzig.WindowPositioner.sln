@@ -5,9 +5,15 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarcelMelzig.WindowPositioner.Abstraction", "MarcelMelzig.WindowPositioner.Abstraction\MarcelMelzig.WindowPositioner.Abstraction.csproj", "{0E1C93F0-D059-4EF2-91C3-28ACD11B7B23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcelMelzig.WindowPositioner.Core", "MarcelMelzig.WindowPositioner.Core\MarcelMelzig.WindowPositioner.Core.csproj", "{A7B943BA-E192-4466-A54D-4C67E84E1C53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarcelMelzig.WindowPositioner.Core", "MarcelMelzig.WindowPositioner.Core\MarcelMelzig.WindowPositioner.Core.csproj", "{A7B943BA-E192-4466-A54D-4C67E84E1C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcelMelzig.WindowPositioner.Cmd", "MarcelMelzig.WindowPositioner.Cmd\MarcelMelzig.WindowPositioner.Cmd.csproj", "{CC0E9B2C-08AD-4CA2-9413-DD27C2269980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarcelMelzig.WindowPositioner.Cmd", "MarcelMelzig.WindowPositioner.Cmd\MarcelMelzig.WindowPositioner.Cmd.csproj", "{CC0E9B2C-08AD-4CA2-9413-DD27C2269980}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5010E1CC-79C0-4F36-8EB2-40B61B67BD29}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
