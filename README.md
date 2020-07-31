@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # Readme
 
 Maintainer: <marcel@3h-co.de>
