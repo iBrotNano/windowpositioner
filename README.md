@@ -9,7 +9,7 @@ Version: 1.0.0
 A small .NET Core command line app to position windows in Windows on screens. 
 All windows on the primary screen are set to fullscreen. All windows on other 
 screens are stacked into columns or rows. It depends on if the screen is 
-shown in landscape or protrait ration.
+shown in landscape or portrait ration.
 
 ## How to use the app
 
