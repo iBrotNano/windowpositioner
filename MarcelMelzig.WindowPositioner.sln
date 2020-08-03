@@ -14,14 +14,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
+		.github\workflows\build-ci.yml = .github\workflows\build-ci.yml
 		CHANGELOG.md = CHANGELOG.md
 		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcelMelzig.WindowPositioner.Abstraction.Test", "MarcelMelzig.WindowPositioner.Abstraction.Test\MarcelMelzig.WindowPositioner.Abstraction.Test.csproj", "{896AB9C1-FF07-4787-8B40-8273A6DD8012}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarcelMelzig.WindowPositioner.Abstraction.Test", "MarcelMelzig.WindowPositioner.Abstraction.Test\MarcelMelzig.WindowPositioner.Abstraction.Test.csproj", "{896AB9C1-FF07-4787-8B40-8273A6DD8012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcelMelzig.WindowPositioner.Core.Test", "MarcelMelzig.WindowPositioner.Core.Test\MarcelMelzig.WindowPositioner.Core.Test.csproj", "{9BC2FF38-64DC-4E74-BA49-52C917A7DBA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarcelMelzig.WindowPositioner.Core.Test", "MarcelMelzig.WindowPositioner.Core.Test\MarcelMelzig.WindowPositioner.Core.Test.csproj", "{9BC2FF38-64DC-4E74-BA49-52C917A7DBA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
